@@ -1,0 +1,39 @@
+.sidebar {
+  float: right;
+  border: dashed pink 5px;
+  font-size: 35px;
+  line-height: 60px;
+  color: purple;
+  text-align: left;
+  margin-left: 80px;
+  padding: 10px;
+
+}
+
+
+.one {
+  margin-left: 70px;
+  width: 300px;
+}
+
+.two {
+  border-radius: 100px;
+  float: down;
+  padding-top: 20px;
+
+}
+
+img {
+  /*padding: 20px;*/
+}
+
+.title {
+  text-align: center;
+}
+
+.main {
+  font-size: 23px;
+  text-align: center;
+  color: maroon;
+  text-align: center;
+}
